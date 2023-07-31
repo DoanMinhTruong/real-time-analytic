@@ -17,6 +17,13 @@ This repo gives an introduction to setting up streaming analytics using open sou
         <img title="View System" src="https://github.com/apot-group/real-time-analytic/blob/main/public/chart.png?raw=true" />
     </kbd>
     <br/>
+    <kbd>
+        <img title="View System" src="https://github.com/DoanMinhTruong/real-time-analytic/blob/main/public/dmt-dashboard.png?raw=true" />
+    </kbd>
+    <br/>
+    <kbd>
+        <img title="View System" src="https://github.com/DoanMinhTruong/real-time-analytic/blob/main/public/druid-segment.png?raw=true" />
+    </kbd>
 </div>
 <br>
 
