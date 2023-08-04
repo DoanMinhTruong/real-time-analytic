@@ -24,6 +24,10 @@ This repo gives an introduction to setting up streaming analytics using open sou
     <kbd>
         <img title="View System" src="https://github.com/DoanMinhTruong/real-time-analytic/blob/main/public/druid-segment.png?raw=true" />
     </kbd>
+    <br/>
+    <kbd>
+        <img title="View System" src="https://github.com/DoanMinhTruong/real-time-analytic/blob/main/public/airflow.png?raw=true" />
+    </kbd>
 </div>
 <br>
 
